@@ -1,0 +1,49 @@
+,Country,City,University,Program,Level,Duration_Years,Tuition_USD,Living_Cost_Index,Rent_USD,Visa_Fee_USD,Insurance_USD,Exchange_Rate,Tuition_rate,Avg_Uni_Tuition
+105,UK,Birmingham,University of Birmingham,Computer Engineering,Bachelor,3.0,29500,66.8,950,485,800,0.79,9833.333333333334,18666.666666666668
+107,UK,Nottingham,University of Nottingham,Computer Science,Bachelor,3.0,28900,64.8,850,485,800,0.79,9633.333333333334,11241.666666666668
+109,UK,Belfast,Queen's University Belfast,Computing Systems,Bachelor,3.0,27500,63.5,750,485,800,0.79,9166.666666666666,9166.666666666666
+234,UK,Cambridge,University of Cambridge,Computer Science,Bachelor,3.0,38500,78.5,1800,490,800,0.79,12833.333333333334,10627.77777777778
+235,UK,Oxford,University of Oxford,Computer Science,Bachelor,3.0,37900,77.8,1850,490,800,0.79,12633.333333333334,12520.833333333334
+236,UK,London,Imperial College London,Computer Science,Bachelor,3.0,37500,83.2,2200,490,800,0.79,12500.0,31900.0
+237,UK,London,University College London,Computer Science,Bachelor,3.0,36800,83.2,2100,490,800,0.79,12266.666666666666,25733.333333333332
+238,UK,London,King's College London,Computer Science,Bachelor,3.0,35500,83.2,2000,490,800,0.79,11833.333333333334,25416.666666666668
+240,UK,Manchester,University of Manchester,Computer Science,Bachelor,3.0,31800,72.1,1400,490,800,0.79,10600.0,10420.833333333332
+241,UK,Bristol,University of Bristol,Computer Science,Bachelor,3.0,31500,74.8,1500,490,800,0.79,10500.0,14225.0
+242,UK,Warwick,University of Warwick,Computer Science,Bachelor,3.0,31200,71.5,1300,490,800,0.79,10400.0,23600.0
+244,UK,Birmingham,University of Birmingham,Computer Science,Bachelor,3.0,30500,71.8,1300,490,800,0.79,10166.666666666666,18666.666666666668
+245,UK,Leeds,University of Leeds,Computer Science,Bachelor,3.0,30200,71.2,1250,490,800,0.79,10066.666666666666,11454.166666666666
+246,UK,Sheffield,University of Sheffield,Computer Science,Bachelor,3.0,29800,70.5,1200,490,800,0.79,9933.333333333334,11911.111111111111
+247,UK,Nottingham,University of Nottingham,Computer Science,Bachelor,3.0,29500,70.8,1150,490,800,0.79,9833.333333333334,11241.666666666668
+248,UK,Southampton,University of Southampton,Computer Science,Bachelor,3.0,29200,72.4,1300,490,800,0.79,9733.333333333334,21066.666666666668
+249,UK,Durham,Durham University,Computer Science,Bachelor,3.0,28900,71.6,1250,490,800,0.79,9633.333333333334,13566.666666666668
+250,UK,Liverpool,University of Liverpool,Computer Science,Bachelor,3.0,28600,70.2,1100,490,800,0.79,9533.333333333334,9533.333333333334
+251,UK,Cardiff,Cardiff University,Computer Science,Bachelor,3.0,28300,69.8,1050,490,800,0.79,9433.333333333334,24877.77777777778
+252,UK,Newcastle,Newcastle University,Computer Science,Bachelor,3.0,28000,70.1,1100,490,800,0.79,9333.333333333334,20066.666666666668
+254,UK,Leicester,University of Leicester,Computer Science,Bachelor,3.0,27400,68.9,950,490,800,0.79,9133.333333333334,9133.333333333334
+255,UK,Reading,University of Reading,Computer Science,Bachelor,3.0,27100,71.2,1150,490,800,0.79,9033.333333333334,9033.333333333334
+256,UK,Sussex,University of Sussex,Computer Science,Bachelor,3.0,26800,72.5,1200,490,800,0.79,8933.333333333334,8933.333333333334
+257,UK,Essex,University of Essex,Computer Science,Bachelor,3.0,26500,69.8,1000,490,800,0.79,8833.333333333334,8833.333333333334
+258,UK,Bath,University of Bath,Computer Science,Bachelor,3.0,26200,73.4,1250,490,800,0.79,8733.333333333334,8733.333333333334
+259,UK,Surrey,University of Surrey,Computer Science,Bachelor,3.0,25900,71.8,1150,490,800,0.79,8633.333333333334,8633.333333333334
+260,UK,Exeter,University of Exeter,Computer Science,Bachelor,3.0,25600,72.1,1200,490,800,0.79,8533.333333333334,8533.333333333334
+261,UK,Kent,University of Kent,Computer Science,Bachelor,3.0,25300,70.5,1100,490,800,0.79,8433.333333333334,8433.333333333334
+265,UK,Loughborough,Loughborough University,Computer Science,Bachelor,3.0,24100,68.5,900,490,800,0.79,8033.333333333333,8033.333333333333
+266,UK,Brunel,Brunel University London,Computer Science,Bachelor,3.0,23800,83.2,1800,490,800,0.79,7933.333333333333,7933.333333333333
+267,UK,Queen Mary,Queen Mary University of London,Computer Science,Bachelor,3.0,23500,83.2,1900,490,800,0.79,7833.333333333333,7833.333333333333
+268,UK,Royal Holloway,Royal Holloway University,Computer Science,Bachelor,3.0,23200,75.5,1400,490,800,0.79,7733.333333333333,7733.333333333333
+269,UK,Lancaster,Lancaster University,Computer Science,Bachelor,3.0,22900,69.8,1000,490,800,0.79,7633.333333333333,7633.333333333333
+270,UK,Swansea,Swansea University,Computer Science,Bachelor,3.0,22600,68.5,950,490,800,0.79,7533.333333333333,7533.333333333333
+271,UK,Aston,Aston University,Computer Science,Bachelor,3.0,22300,71.8,1200,490,800,0.79,7433.333333333333,7433.333333333333
+272,UK,Hull,University of Hull,Computer Science,Bachelor,3.0,22000,67.9,850,490,800,0.79,7333.333333333333,7333.333333333333
+273,UK,Keele,Keele University,Computer Science,Bachelor,3.0,21700,67.5,800,490,800,0.79,7233.333333333333,7233.333333333333
+274,UK,Plymouth,University of Plymouth,Computer Science,Bachelor,3.0,21400,69.2,950,490,800,0.79,7133.333333333333,7133.333333333333
+275,UK,Portsmouth,University of Portsmouth,Computer Science,Bachelor,3.0,21100,70.5,1000,490,800,0.79,7033.333333333333,7033.333333333333
+276,UK,Ulster,Ulster University,Computer Science,Bachelor,3.0,20800,67.2,800,490,800,0.79,6933.333333333333,6933.333333333333
+277,UK,Northumbria,Northumbria University,Computer Science,Bachelor,3.0,20500,68.5,900,490,800,0.79,6833.333333333333,6833.333333333333
+278,UK,Coventry,Coventry University,Computer Science,Bachelor,3.0,20200,69.8,950,490,800,0.79,6733.333333333333,6733.333333333333
+279,UK,Oxford Brookes,Oxford Brookes University,Computer Science,Bachelor,3.0,19900,77.8,1500,490,800,0.79,6633.333333333333,6633.333333333333
+280,UK,De Montfort,De Montfort University,Computer Science,Bachelor,3.0,19600,68.9,900,490,800,0.79,6533.333333333333,6533.333333333333
+281,UK,Westminster,University of Westminster,Computer Science,Bachelor,3.0,19300,83.2,1800,490,800,0.79,6433.333333333333,6433.333333333333
+282,UK,Greenwich,University of Greenwich,Computer Science,Bachelor,3.0,19000,83.2,1700,490,800,0.79,6333.333333333333,6333.333333333333
+283,UK,Kingston,Kingston University,Computer Science,Bachelor,3.0,18700,83.2,1600,490,800,0.79,6233.333333333333,6233.333333333333
+473,UK,Leeds,Leeds Beckett University,Computer Science,Bachelor,3.0,34000,63.2,900,485,800,0.79,11333.333333333334,11333.333333333334
